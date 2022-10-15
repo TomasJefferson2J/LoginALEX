@@ -17,6 +17,7 @@ Public Class Form1
     Private Sub TextEdad_TextChanged(sender As Object, e As EventArgs) Handles TextEdad.TextChanged
 
     End Sub
+    holA
 
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
